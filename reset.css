@@ -21,7 +21,7 @@ body {
   --primary : 250 66% 61%;
 }
 
-.button {
+.btn {
   all: unset;
   font-size: 24px;
   margin-top: 100px;
